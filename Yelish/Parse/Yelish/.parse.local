@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Yelish": {
+      "applicationId": "AdgSdjLsSqLdnL10mvheKeMOFTpW8bcqXneimAqh"
+    },
+    "_default": {
+      "link": "Yelish"
+    }
+  }
+}
